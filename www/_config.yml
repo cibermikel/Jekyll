@@ -1,0 +1,7 @@
+title: ciber-analistas
+description: >- # this means to ignore newlines until "baseurl:"
+  Mondongo.
+# baseurl: "" # the subpath of your site, e.g. /blog
+mail1: mail1@example.com
+mail2: mail2@example.com
+theme: minima
